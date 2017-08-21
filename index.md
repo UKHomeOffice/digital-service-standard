@@ -2,18 +2,21 @@
 
 **Who we are and what we do**
 
-The Digital Service Standard Team are in the Product Design Centre of Excellence. We support teams to meet the digital service standard (https://www.gov.uk/service-manual/service-standard), and co-ordinate assurance to show our teams are meeting the standard. We work with professional communities, delivery portfolios, governance colleagues, GDS and others. 
+The Digital Service Standard Team are in the Product Design Centre of Excellence. We support teams to meet the [digital service standard](https://www.gov.uk/service-manual/service-standard), and co-ordinate assurance to show our teams are meeting the standard. We work with professional communities, delivery portfolios, governance colleagues, GDS and others. 
 Get in touch if you have feedback on the digital service standard, want to become an assessor, or want to join our team – all things we’re currently working on!
 
 ## What we did in July
+
 ### Health checks and assessments 
 - Common Data Platform end of discovery health check 
 - HMPO Digital Application Processing alpha health check
 - Returns and Movement Planner private beta health check
 - Firearms licensing beta assessment 
 - Check your right to work in the UK – this was a practice assessment, before the team had their GDS alpha assessment
+
 ### Training and capability
-- We delivered digital service standard assessor training jointly with GDS. We have now welcomed seven new assessors to the community! 
+- We delivered digital service standard assessor training jointly with GDS. We have now welcomed seven new assessors to the community!
+
 ### Iterations and general updates
 - We have set out what our team will focus on for the next couple of months, as two of our team (of three) will be leaving by the end of September
 - We have updated the data we have, such as ensuring our list of assessors is up-to-date
