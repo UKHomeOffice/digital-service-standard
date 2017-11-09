@@ -1,4 +1,4 @@
-- # **Digital Service Standard Team monthly update: October 2017**
+# **Digital Service Standard Team monthly update: October 2017**
 
 **Who we are and what we do**
 
