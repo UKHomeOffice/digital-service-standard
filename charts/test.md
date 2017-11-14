@@ -1,3 +1,5 @@
+Chart 1
+
 <script> var chart = c3.generate({ 
 axis: { x: { label: 'Sprint' }, y: { label: 'Work' } },
 
