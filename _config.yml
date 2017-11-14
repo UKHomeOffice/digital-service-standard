@@ -1,5 +1,7 @@
+
 theme: jekyll-theme-cayman
 title: Home Office digital service standard
 description: A really simple static site created with Github pages
 show_downloads: false
-google_analytics: UA-105003595-1
+google_analytics: [UA-105003595-1]
+future: true
