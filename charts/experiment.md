@@ -1,5 +1,7 @@
 Chart 1
 
+<script>
+
 <div id="chart1"></div>
 
 var chart = c3.generate({
@@ -11,6 +13,8 @@ var chart = c3.generate({
       ]
     }
 });
+
+<script>
 
 
 Click here for sprint notes.
