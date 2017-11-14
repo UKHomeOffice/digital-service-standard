@@ -39,19 +39,6 @@ bindto: '#chart1'
 });
 </script>
 
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 1.1  | 34% |20-Dec-17 | 20-Feb-17 |
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 2  | 20% |28-Feb-18 | 22-Apr-18 |
-
-| Release |Completed  | Due | Predicted |
-|:-----| :-----:|:-----:|:-----:|
-|Release 3  | 18% |01-Aug-18 | 27-Apr-18 |
-
-
 ### Chart 2
 <div id="chart2"></div>
 <script>
