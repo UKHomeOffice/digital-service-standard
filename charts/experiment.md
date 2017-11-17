@@ -2,7 +2,6 @@ Chart 1
 
 This is an experiment 
 
-<div id="chart1"></div>
 <script> 
 var chart = c3.generate({
 
@@ -16,8 +15,6 @@ columns: [
 
 type : 'pie',
 }
-
-bindto: '#chart1'
 
 }); 
 <script>
