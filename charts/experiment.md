@@ -1,16 +1,16 @@
 Chart 1
 
 This is an experiment 
-
+<div id="chart1"></div>
 <script> 
 var chart = c3.generate({
 
 data: {
-// iris data from R
+x: 'x',
 columns: [
-['data1', 10],
-['data2', 17],
-['data3', 31],
+['both', 10],
+['public', 17],
+['staff', 31],
 ],
 
 type : 'pie',
