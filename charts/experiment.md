@@ -18,7 +18,7 @@ type : 'pie',
 
 }); 
 
-<script>
+
 
 
 This is to see if I can make text appear below a chart
