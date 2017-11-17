@@ -1,8 +1,11 @@
-##Chart 1
+Chart 1
 
 This is an experiment 
 
-<script> var chart = c3.generate({
+<div id="chart1"></div>
+<script> 
+var chart = c3.generate({
+
 data: {
 // iris data from R
 columns: [
@@ -10,9 +13,14 @@ columns: [
 ['data2', 17],
 ['data3', 31],
 ],
+
 type : 'pie',
 }
-}); <script>
+
+bindto: '#chart1'
+
+}); 
+<script>
 
 
 This is to see if I can make text appear below a chart
